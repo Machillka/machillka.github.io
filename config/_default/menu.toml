@@ -11,6 +11,7 @@
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/Machillka"
+weight = 1
 
 [social.params]
 icon = "brand-github"
@@ -19,6 +20,7 @@ icon = "brand-github"
 identifier = "bilibili"
 name = "Bilibili"
 url = "https://space.bilibili.com/611004244"
+weight = 2
 
 [social.params]
 icon = "brand-bilibili"
