@@ -21,4 +21,4 @@ name = "Bilibili"
 url = "https://space.bilibili.com/611004244"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-bilibili"
