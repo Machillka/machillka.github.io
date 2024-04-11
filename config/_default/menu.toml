@@ -24,3 +24,12 @@ weight = 2
 
 [social.params]
 icon = "brand-bilibili"
+
+[[social]]
+identifier = "gmail"
+name = "gmail"
+url = "mailto:machillka2007@gmail.com"
+weight = 3
+
+[social.params]
+icon = "brand-gmail"
